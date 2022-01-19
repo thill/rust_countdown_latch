@@ -1,0 +1,8 @@
+[package]
+name = "countdown_latch"
+version = "0.1.1"
+authors = ["Eric Thill <thill@users.noreply.github.com>"]
+description = "A synchronization aid that allows one or more threads to wait until a set of operations being performed in other threads completes"
+license = "MIT OR Apache-2.0"
+
+[dependencies]
